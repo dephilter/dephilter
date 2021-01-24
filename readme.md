@@ -6,6 +6,7 @@ To run this project you need:
 * [MoviePy](https://zulko.github.io/moviepy/install.html)
 * ffmpeg ([download link](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z))
 * [PyGame](https://www.pygame.org/wiki/GettingStarted)
+* scikit-image
 
 ## Quickstart
 
