@@ -4,7 +4,6 @@ To run this project you need:
 * [Python3](https://www.python.org/downloads/)
 * Python package manager [pip](https://pip.pypa.io/en/stable/installing/https://pip.pypa.io/en/stable/installing/)
 * [MoviePy](https://zulko.github.io/moviepy/install.html)
-* ffmpeg ([download link](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z))
 * [PyGame](https://www.pygame.org/wiki/GettingStarted)
 * scikit-image
 
